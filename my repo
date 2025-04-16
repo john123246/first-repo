@@ -1,0 +1,15 @@
+mkdir my-first-repo
+
+cd my-first-repo
+
+git init 
+
+echo " # my first repo">README.md
+
+git add 
+
+git commit -m "intial commit "
+
+git remote add origin 
+
+git push -u origin master
